@@ -5,7 +5,7 @@ EXPERIMENTAL work in progress. Use at your own risk.
 
 See: https://www.drupal.org/node/1044692
 
-Also see the hosting_wordpress module for the front-end:  
+Also see the hosting_wordpress module for the front-end:
 https://github.com/mlutfy/hosting_wordpress
 
 Installation
@@ -56,10 +56,10 @@ This module is not currently supported. Feel free to send patches using the issu
 Copyright and license
 =====================
 
-Provision Wordpress  
+Provision Wordpress
 (C) 2015 Mathieu Lutfy <mathieu@symbiotic.coop>
 
-Distributed under the terms of the GNU Affero General public license v3 (AGPL).  
+Distributed under the terms of the GNU Affero General public license v3 (AGPL).
 http://www.gnu.org/licenses/agpl.html
 
 ```
