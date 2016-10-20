@@ -12,7 +12,6 @@ Installation
 ============
 
 - Copy and enable the hosting_wordpress module in your ~/hostmaster-7.x-3.x/sites/example.org/modules directory.
-- Apply the 3 patches included in the patches directory (this will probably break install/verify of Drupal sites)
 - Install wp-cli in ~/lib/wp-cli.phar and symlink it as ~/bin/wp (FIXME: use ~/.composer ?)
 
 How to test
